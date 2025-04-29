@@ -1,0 +1,25 @@
+#contenedor {
+    width: 700px;
+}
+
+#cabecera {
+    background-color: powderblue;
+    height: 100px;
+}
+
+#contenido {
+    float: left;
+    width: 550px;
+    background-color: cadetblue;
+    height: 400px;
+}
+
+#menu {
+    float: right;
+    width: 150px;
+    background-color: yellowgreen;
+    height: 400px;
+}
+
+#pie {
+}
